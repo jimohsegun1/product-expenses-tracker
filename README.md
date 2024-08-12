@@ -36,5 +36,5 @@ The **Product Expenses Tracker** is a web application designed to help users man
 1. **Clone the Repository** (if applicable):
 
    ```bash
-   git clone https://github.com/yourusername/product-expenses-tracker.git
+   git clone https://github.com/jimohsegun1/product-expenses-tracker.git
    cd product-expenses-tracker
